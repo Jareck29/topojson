@@ -1,0 +1,60 @@
+const es = {
+  common: {
+    search: 'Buscar',
+    login: 'Iniciar sesión',
+    register: 'Crear cuenta',
+    logout: 'Cerrar sesión',
+    language: 'Idioma',
+    copy: 'Copiar',
+    copied: 'Copiado ✓',
+    cancel: 'Cancelar',
+    save: 'Guardar',
+    public: 'Público',
+    private: 'Privado',
+    trending: 'Tendencia',
+    latest: 'Más nuevos',
+    saved: 'Más guardados',
+    actions: 'Acciones',
+  },
+  home: {
+    headline: 'Descubre los prompts más creativos',
+    subhead: 'Comparte tus prompts favoritos, reacciona y conecta con la comunidad creativa de IA.',
+    empty: 'Todavía no hay prompts públicos. ¡Sé la primera persona en publicar uno!'
+  },
+  auth: {
+    welcomeBack: 'Bienvenido de nuevo',
+    createAccount: 'Crea tu cuenta',
+    register: 'Crear cuenta',
+    email: 'Correo electrónico',
+    password: 'Contraseña',
+    confirmPassword: 'Confirmar contraseña',
+    haveAccount: '¿Ya tienes cuenta? Inicia sesión',
+    needAccount: '¿No tienes cuenta? Crea una',
+  },
+  prompts: {
+    comments: 'Comentarios',
+    like: 'Me gusta',
+    dislike: 'No me gusta',
+    favorite: 'Favorito',
+    repost: 'Repost',
+    save: 'Guardar',
+    copies: 'Copias',
+    visibility: 'Visibilidad',
+  },
+  profile: {
+    prompts: 'Prompts',
+    followers: 'Seguidores',
+    following: 'Siguiendo',
+    editProfile: 'Editar perfil',
+  },
+  admin: {
+    dashboard: 'Panel de administración',
+    users: 'Usuarios',
+    sections: 'Secciones',
+    agents: 'Agentes',
+    metrics: 'Métricas',
+    prompts: 'Prompts',
+  },
+};
+
+export default es;
