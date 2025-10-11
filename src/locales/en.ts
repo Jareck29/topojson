@@ -1,0 +1,60 @@
+const en = {
+  common: {
+    search: 'Search',
+    login: 'Sign in',
+    register: 'Create account',
+    logout: 'Sign out',
+    language: 'Language',
+    copy: 'Copy',
+    copied: 'Copied ✓',
+    cancel: 'Cancel',
+    save: 'Save',
+    public: 'Public',
+    private: 'Private',
+    trending: 'Trending',
+    latest: 'Newest',
+    saved: 'Most saved',
+    actions: 'Actions',
+  },
+  home: {
+    headline: 'Discover the most creative prompts',
+    subhead: 'Share your favourite prompts, react and connect with the AI creative community.',
+    empty: 'There are no public prompts yet. Be the first one to publish!'
+  },
+  auth: {
+    welcomeBack: 'Welcome back',
+    createAccount: 'Create your account',
+    register: 'Create account',
+    email: 'Email',
+    password: 'Password',
+    confirmPassword: 'Confirm password',
+    haveAccount: 'Already registered? Sign in',
+    needAccount: "Don\'t have an account? Create one",
+  },
+  prompts: {
+    comments: 'Comments',
+    like: 'Like',
+    dislike: 'Dislike',
+    favorite: 'Favourite',
+    repost: 'Repost',
+    save: 'Save',
+    copies: 'Copies',
+    visibility: 'Visibility',
+  },
+  profile: {
+    prompts: 'Prompts',
+    followers: 'Followers',
+    following: 'Following',
+    editProfile: 'Edit profile',
+  },
+  admin: {
+    dashboard: 'Admin dashboard',
+    users: 'Users',
+    sections: 'Sections',
+    agents: 'Agents',
+    metrics: 'Metrics',
+    prompts: 'Prompts',
+  },
+};
+
+export default en;

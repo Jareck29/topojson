@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  @apply bg-muted text-slate-900 font-sans antialiased;
+}
+
+[data-theme='dark'] body {
+  @apply bg-slate-950 text-slate-100;
+}
+
+::selection {
+  background-color: theme('colors.primary.DEFAULT');
+  color: theme('colors.primary.foreground');
+}
