@@ -1,0 +1,23 @@
+{
+  "entries": [
+    { "key": "game_title", "value": "Paperboy: Neo Courier" },
+    { "key": "start_game", "value": "Start" },
+    { "key": "continue", "value": "Continue" },
+    { "key": "settings", "value": "Settings" },
+    { "key": "daily_mission_title", "value": "Daily Missions" },
+    { "key": "battle_ready", "value": "Get ready to battle!" },
+    { "key": "mini_game_unlocked", "value": "New minigame unlocked" },
+    { "key": "story_intro", "value": "In Neo Barrio, deliveries are a matter of honor." },
+    { "key": "mission_complete", "value": "Mission complete" },
+    { "key": "mission_failed", "value": "Mission failed" },
+    { "key": "newspaper_delivery", "value": "Newspaper Delivery" },
+    { "key": "drone_battle", "value": "Drone Battle" },
+    { "key": "dialogue_skip", "value": "Skip" },
+    { "key": "dialogue_next", "value": "Next" },
+    { "key": "options_language", "value": "Language" },
+    { "key": "options_audio", "value": "Audio" },
+    { "key": "options_controls", "value": "Controls" },
+    { "key": "pause_menu", "value": "Pause" },
+    { "key": "resume", "value": "Resume" }
+  ]
+}
